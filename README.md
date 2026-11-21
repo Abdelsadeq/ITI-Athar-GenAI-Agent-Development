@@ -21,6 +21,7 @@ Each assignment is organized in a separate folder with its own source code, docu
 | Week | Assignment | Description |
 |---|---|---|
 | 01 | [Working with a Public REST API Using Python](./Week-01-REST-API/) | API integration, JSON parsing, Python classes, and environment variables. |
+| 02 | [Generative AI in Your Department](./Week-02-GenAI-Academic-Advising/) | AI-powered personalized academic advising and graduation planning. |
 
 *The table will be updated as new assignments are completed.*
 
