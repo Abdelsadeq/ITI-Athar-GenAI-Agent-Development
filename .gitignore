@@ -13,3 +13,6 @@ __pycache__/
 
 # Editor configuration
 .vscode/
+
+# Ignore Word files in Week 02 only
+/Week-02-GenAI-Academic-Advising/**/*.docx
