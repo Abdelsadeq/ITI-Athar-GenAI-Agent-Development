@@ -36,4 +36,6 @@ A two-page report describing the proposed Generative AI application, its benefit
 
 **Abdelsadeq**
 
+[@Abdelsadeq](https://github.com/Abdelsadeq)
+
 *ITI Athar Initiative — Generative AI & Agent Development Track*
