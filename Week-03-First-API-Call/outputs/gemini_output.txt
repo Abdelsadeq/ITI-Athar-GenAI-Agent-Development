@@ -1,0 +1,24 @@
+
+==================================================
+Provider: GEMINI
+Model: gemini-3.1-flash-lite
+==================================================
+
+Model Response:
+
+In a credit-hour system, your GPA often acts like a "key" that determines your registration priority and eligibility:
+
+*   **Registration Priority:** Students with higher GPAs often get to sign up for classes earlier than those with lower GPAs. This ensures high-achieving students get the seats they need for their degree path first.
+*   **Course Prerequisites:** Many advanced or honors courses require a minimum GPA to enroll. If your GPA is too low, the system may block you from registering for these specific classes.
+*   **Academic Standing:** If your GPA falls below a certain threshold (usually a 2.0), the university may place you on "academic probation." This can limit the number of credit hours you are allowed to take per semester, forcing you to focus on raising your grades before taking a full course load.
+*   **Degree Progression:** A low GPA might prevent you from entering a specific major or department, which in turn prevents you from registering for the core classes required for that degree.
+
+**In short:** A higher GPA gives you "first dibs" on popular classes and keeps all your academic options open.
+
+==================================================
+TOKEN USAGE & COST
+==================================================
+Input Tokens:   35
+Output Tokens:  234
+Total Tokens:   269
+Estimated Cost: $0.00035975

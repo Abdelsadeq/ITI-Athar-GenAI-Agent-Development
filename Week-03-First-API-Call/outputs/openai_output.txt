@@ -1,0 +1,17 @@
+
+==================================================
+Provider: OPENAI
+Model: gpt-6-luna
+==================================================
+
+Model Response:
+
+GPA can affect registration in a few ways: students with higher GPAs may get earlier registration times, while students with low GPAs may face limits on how many credits they can take or be placed on academic probation. Some courses also require a minimum GPA. Rules vary by university.
+
+==================================================
+TOKEN USAGE & COST
+==================================================
+Input Tokens:   42
+Output Tokens:  92
+Total Tokens:   134
+Estimated Cost: $0.00005020
